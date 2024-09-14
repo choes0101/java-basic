@@ -2,7 +2,7 @@ package class1.ex;
 
 public class MovieReviewMain {
     public static void main(String[] args) {
-        MovieReview[] movieReviews = new MovieReview[2]
+        MovieReview[] movieReviews = new MovieReview[2];
         MovieReview inception = new MovieReview();
         inception.title = "인셉션";
         inception.review = "인생은 무한 루프";
