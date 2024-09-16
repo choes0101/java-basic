@@ -1,5 +1,7 @@
 package ref.ex;
 
+import java.util.Scanner;
+
 public class ProductOrderMain2 {
 
     public static void main(String[] args) {
